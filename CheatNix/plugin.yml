@@ -1,0 +1,5 @@
+name: CheatNix
+version: 0.1
+main: de.cr0nixyt.cheatnix.Main
+author: Cr0nixYT
+api-version: 1.16
